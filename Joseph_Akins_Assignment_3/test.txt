@@ -1,0 +1,46 @@
+COUNT
+NEXT
+READ
+EMAIL OtherPerson,Lunch on Friday?,09-28-2026
+EMAIL Peer,Quarterly budget review,09-25-2026
+COUNT
+NEXT
+NEXT
+EMAIL ImportantPerson,Board meeting agenda,09-30-2026
+EMAIL Subordinate,Project status update,09-20-2026
+EMAIL Subordinate,Server outage report,09-29-2026
+NEXT
+EMAIL Boss,Need the sales numbers,09-15-2026
+EMAIL Boss,Call me when you land,10-01-2026
+EMAIL Boss,Old strategy memo,12-31-2025
+COUNT
+NEXT
+READ
+NEXT
+READ
+NEXT
+READ
+NEXT
+READ
+NEXT
+EMAIL Peer,Conference travel plans,09-25-2026
+EMAIL Peer,Golf this weekend,10-01-2026
+READ
+COUNT
+NEXT
+READ
+NEXT
+READ
+NEXT
+READ
+NEXT
+READ
+NEXT
+EMAIL Boss,Urgent: reply today,09-01-2026
+NEXT
+READ
+READ
+READ
+COUNT
+NEXT
+READ
